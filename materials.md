@@ -14,10 +14,10 @@
 
 # Books
 ## Rendering
-### (F. Luna - DX11)[https://www.amazon.com/Introduction-3D-Game-Programming-DirectX/dp/1936420228]
-### (F. Luna - DX12)[https://www.amazon.com/Introduction-3D-Game-Programming-DirectX/dp/1942270062]
+### [F. Luna - DX11](https://www.amazon.com/Introduction-3D-Game-Programming-DirectX/dp/1936420228)
+### [F. Luna - DX12](https://www.amazon.com/Introduction-3D-Game-Programming-DirectX/dp/1942270062)
 ## Other
-### (G.C. - Zrozumieć programowanie) https://ksiegarnia.pwn.pl/Zrozumiec-programowanie,688790689,p.html] - in Polish
+### [G.C. - Zrozumieć programowanie](https://ksiegarnia.pwn.pl/Zrozumiec-programowanie,688790689,p.html) - in Polish
 
 # Tools
 ## VS plugins
