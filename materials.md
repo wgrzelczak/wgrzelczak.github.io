@@ -8,15 +8,43 @@
 [TheCherno](https://www.youtube.com/user/TheChernoProject)  
 ## Rendering
 [A. Sawicki](https://asawicki.info/)  
+[Jorge Jimenez](http://www.iryoku.com/)  
+[bazhenovc](https://bazhenovc.github.io/blog/)  
+[Jendrik Illner](https://www.jendrikillner.com/)  
+[MJP](https://github.com/TheRealMJP)  
+[AMD - GPU Open](https://gpuopen.com/effects/)  
 DX11 [braynzarsoft](https://www.braynzarsoft.net/viewtutorial/q16390-braynzar-soft-directx-11-tutorials) - tutorials  
 DX11 [rastetek](http://www.rastertek.com/tutindex.html) - tutorials  
 DX12 [Resource binding](https://www.youtube.com/watch?v=Uwhhdktaofg)  
+[GPU pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)  
+[UE4 Redering a frame](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)  
+[Clustered rendering](https://www.behance.net/gallery/60349885/Clustered-and-Deferred-Rendering-in-WebGL)
+[Texture compression](https://developer.arm.com/solutions/graphics-and-gaming/developer-guides/learn-the-basics/adaptive-scalable-texture-compression/single-page)  
+[Texture compression DXT](http://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/)  
+[Student works](https://cis565-fall-2016.github.io/studentwork.html)  
+[SSAO](http://alextardif.com/SSAO.html)  
+[GPU scalarization](https://flashypixels.wordpress.com/2018/11/10/intro-to-gpu-scalarization-part-1/)  
+[GPU synchronization](https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/)  
+[Riot games profiling](https://technology.riotgames.com/news/profiling-measurement-and-analysis)  
+
+### Materials
+[PBR](https://google.github.io/filament/Filament.md.html)  
+[PBR](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)  
+[PBR](https://marmoset.co/posts/physically-based-rendering-and-you-can-too/)  
+[PBR](http://filmicworlds.com/blog/everything-is-shiny/)  
+[Wet surfaces](https://forum.substance3d.com/index.php?topic=3936.0)  
+[Lens Flare](http://resources.mpi-inf.mpg.de/lensflareRendering/pdf/flare-supplement.pdf)  
+
+## Other
+[Intersections](http://www.realtimerendering.com/intersections.html)  
+
 
 # Books
 ## Rendering
 [F. Luna - DX11](https://www.amazon.com/Introduction-3D-Game-Programming-DirectX/dp/1936420228)  
 [F. Luna - DX12](https://www.amazon.com/Introduction-3D-Game-Programming-DirectX/dp/1942270062)  
 [P. Lapinski - VK Cookbook](https://www.amazon.com/Vulkan-Cookbook-potential-generation-graphics/dp/1786468158)  
+[T. Akenine-Möller - Real-Time Rendering](http://www.realtimerendering.com/)  
 
 ## Other
 [G.C. - Zrozumieć programowanie](https://ksiegarnia.pwn.pl/Zrozumiec-programowanie,688790689,p.html) - in Polish  
