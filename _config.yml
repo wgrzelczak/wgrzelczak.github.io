@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+include:
+  - README.md
+  - materials.md
+  - math.md
+  
