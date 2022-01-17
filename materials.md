@@ -35,7 +35,16 @@ DX12 [Resource binding](https://www.youtube.com/watch?v=Uwhhdktaofg)
 [Wet surfaces](https://forum.substance3d.com/index.php?topic=3936.0)  
 [Lens Flare](http://resources.mpi-inf.mpg.de/lensflareRendering/pdf/flare-supplement.pdf)  
 
+### Frame Graph
+[themaister - Render graphs and Vulkan — a deep dive](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)  
+[OUR MACHINERY - High-Level Rendering Using Render Graphs](https://ourmachinery.com/post/high-level-rendering-using-render-graphs/)  
+[GDC 2017 - Yuriy O'Donnell - Frostbite](https://www.gdcvault.com/play/1024612/FrameGraph-Extensible-Rendering-Architecture-in)  
+[graphviz](https://graphviz.org/)  
+
 ## Other
+[SOFTWARE ENGINEERING, Garmisch, Germany, 7th to 11th October 1968](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)  
+[Kevlin Henney - Procedural Programming: It's Back? It Never Went Away](https://www.youtube.com/watch?v=eEBOvqMfPoI)  
+[Brian Will - Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)  
 [Intersections](http://www.realtimerendering.com/intersections.html)  
 
 
